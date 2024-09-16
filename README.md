@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Brightness Controller** application allows you to adjust your screen brightness and set reminders to take breaks. It features a modern and eye-catching user interface built with Tkinter, and includes a system tray icon for easy access. The application also supports setting intervals for break reminders to help reduce eye strain.
+The **Brightness Controller** application allows you to adjust your screen brightness and set reminders to take breaks.
 
 ## Features
 
