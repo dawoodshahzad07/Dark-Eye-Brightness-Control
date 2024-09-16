@@ -10,6 +10,11 @@ The **Brightness Controller** application allows you to adjust your screen brigh
 - **Break Reminders**: Set intervals for break reminders to encourage regular breaks.
 - **System Tray Integration**: Minimize the application to the system tray and access it via a tray icon.
 - **Settings Management**: Configure break reminder intervals through a settings window.
+## Install Dependencies
+- screen-brightness-control
+- pystray
+- pillow
+- tk
 
 ## Installation
 
