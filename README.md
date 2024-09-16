@@ -16,9 +16,5 @@ The **Brightness Controller** application allows you to adjust your screen brigh
 - pillow
 - tk
 
-## Installation
-
-1. **Clone the Repository** (if applicable):
-
-   ```bash
-   git clone https://github.com/dawoodshahzad07/brightness-controller.git
+## Run
+<h2> dist -> app.exe </h2> 
